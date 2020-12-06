@@ -2,7 +2,7 @@ vports - Porting software to Void Linux
 
 
 Download:
-Current vports tree: https://github.com/glowiak/vports/releases/download/vports-tree-current/vports-20202711.tgz
+Current vports tree: https://github.com/glowiak/vports/releases/download/vports-tree-current/vports-20200612.tgz
 
 
 Installation:
